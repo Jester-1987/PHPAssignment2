@@ -8,7 +8,7 @@
 ?>
 <!DOCTYPE html>
 <head>
-    <title>SportsPro Technical Support</title> <!--Taken from screenshot in Word Doc-->
+    <title>SportsPro Technical Support - Products</title>
     <link rel="stylesheet" type="text/css" href="main.css" />
 </head>
 <body>
